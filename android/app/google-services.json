@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72030498734",
+    "project_id": "blood-fighter",
+    "storage_bucket": "blood-fighter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72030498734:android:2a9fc87e2482a20fc8e23f",
+        "android_client_info": {
+          "package_name": "com.alaminbin.blood_donation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdq9MEH7g_24YmNZaiGjFXdmWlJ658Ft0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

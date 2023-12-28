@@ -1,0 +1,13 @@
+	Title:
+
+	Blood fighter app is a response to s critical healthcare challange.
+
+	Description:
+	The development  of the blood fighter application is a response to a critical healthcare  challange.
+	 Blood shortage is a recurring issue that can have life-threatening consequences for patients in need of blood transfusions.
+	 In this contex, this application aims to bridge the gap between willing donors and indivisuals or medical facilities requiring blood. The app leverages mobile technology and the power of community to streamline the blood donation process, making it more accesible, efficient, and potentially lifesaving.
+
+	Email : info@creativesoftware.com.bd
+
+
+https://www.youtube.com/watch?v=vR_eTgCzNGc
